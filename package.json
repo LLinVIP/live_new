@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@iconify-json/bi": "^1.1.23",
+    "@iconify-json/ph": "^1.1.13",
+    "vitepress": "^1.2.3"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "@types/node": "^20.14.9",
+    "dayjs": "^1.11.11",
+    "postcss": "^8.4.39",
+    "unocss": "^0.61.0",
+    "unplugin-icons": "^0.19.0",
+    "unplugin-vue-components": "^0.27.2",
+    "vite": "^5.3.2",
+    "vue": "^3.4.31"
+  }
+}
