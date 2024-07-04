@@ -15,12 +15,22 @@ export function MarkdownTransform(): Plugin {
       // convert img
       const imgRegex = /!\[(.+?)\]\((.+?)\)/g
       let imgMatches = imgRegex.exec(code)
-      while (imgMatches) {
-        const [text, link] = imgMatches.slice(1)
-        code = code.replace(imgMatches[0], `<img src="${link}" alt="${text || 'img'}" class="mx-auto w-70%"/>`)
-        imgMatches = imgRegex.exec(code)
-      }
 
+      if (id.match(/Play/)){
+        while (imgMatches) {
+          const [text, link] = imgMatches.slice(1)
+          code = code.replace(imgMatches[0], `<img src="${link}" alt="${text || 'img'}" class="mx-auto w-80%"/><br>`)
+          imgMatches = imgRegex.exec(code)
+        }
+      }else
+      {
+        while (imgMatches) {
+          const [text, link] = imgMatches.slice(1)
+          code = code.replace(imgMatches[0], `<img src="${link}" alt="${text || 'img'}" class="mx-auto w-70%"/>`)
+          imgMatches = imgRegex.exec(code)
+      }
+    }
+        
       // convert links to components
       // const linkRegex = /\[(.+?)\]\((.+?)\)/g
       // let matches = linkRegex.exec(code)
