@@ -25,7 +25,7 @@ export default function PlaySideBar() {
                         items: [
                           { text: 'ChaTraMue手标泰式茶', link: '/Play/Eat/OutSchool/GuLou/ChaTraMue手标泰式茶' },
                          ],
-                          collapsed: false
+                          collapsed: true
                     },
                     {
                       text: '泉山区',
@@ -38,7 +38,7 @@ export default function PlaySideBar() {
                         { text: '周老六安庆面馆', link: '/Play/Eat/OutSchool/QuanShan/周老六安庆面馆' },
                         { text: 'L&C Bar', link: '/Play/Eat/OutSchool/QuanShan/L&C Bar' }
                        ],
-                        collapsed: false
+                        collapsed: true
                   },
                   {
                     text: '云龙区',
@@ -49,7 +49,7 @@ export default function PlaySideBar() {
                       { text: '蟹逅龙虾', link: '/Play/Eat/OutSchool/YunLong/蟹逅龙虾' },
                       { text: 'Temp度C', link: '/Play/Eat/OutSchool/YunLong/Temp度C' },
                      ],
-                      collapsed: false
+                      collapsed: true
                 },
                     {
                         text: '小南门',
@@ -58,7 +58,7 @@ export default function PlaySideBar() {
                           { text: '明记肠粉', link: '/Play/Eat/OutSchool/Vicinity/明记肠粉' },
                           { text: '夜归人菜馆', link: '/Play/Eat/OutSchool/Vicinity/夜归人菜馆' }
                          ],
-                          collapsed: false
+                        collapsed: true
                     }
                    ],
                     collapsed: false
