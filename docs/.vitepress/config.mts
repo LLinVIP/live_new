@@ -15,9 +15,8 @@ export default defineConfig({
       { text: "主页", link: "/" },
       { text: "前言", link: "/Preface/" },
       { text: "学习篇", link: "/Study/" },
-      { text: "学生工作篇", link: "/student" },
+      { text: "学生工作篇", link: "/StuWork" },
       { text: "生活篇", link: "/Life/" },
-      { text: "常用文件篇", link: "/download/学习类" },
       { text: "吃喝玩乐篇", link: "/Play" },
     ],
 
