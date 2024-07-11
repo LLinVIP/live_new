@@ -22,6 +22,11 @@ export default defineConfig({
 
     sidebar: sidebar,
 
+    editLink: {
+      pattern: `https://github.com/LLinVIP/live_new/tree/main/docs/:path`,
+      text: '在 GitHub 上编辑此页',
+    },
+
     socialLinks: [
       {
         // QQ
@@ -47,5 +52,13 @@ export default defineConfig({
       message: "欢迎投稿 cumtlive@outlook.com",
       copyright: "Copyright © 2023-present CUMT生存手册",
     },
+    search: {
+      provider: 'algolia',
+      options: {
+        appId: 'R7HRHDUGXW',
+        apiKey: '8f5a87e322a050e794d4d4126aadd5c7',
+        indexName: 'live-cumt'
+      }
+    }
   }
 })

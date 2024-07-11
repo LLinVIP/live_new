@@ -48,10 +48,10 @@ const timeFormNow = getFromNow(isoDatetime.value)
         <ooui:clock />
         阅读时长:<span>{{ readTime }} 分钟</span>
       </div>
-      <div class="flex gap-[4px] items-center">
+      <!-- <div class="flex gap-[4px] items-center">
         <ph:eye-fill />
         阅读量:<span id="busuanzi_container_page_pv"><span id="busuanzi_value_page_pv" /></span>
-      </div>
+      </div> -->
     </section>
   </div>
 </template>

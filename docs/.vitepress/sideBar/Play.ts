@@ -6,7 +6,7 @@ export default function PlaySideBar() {
                 {
                     text: '🥐 校内美食',
                     items: [
-                      { text: '校外交通', link: '/Life/Traffic/OutSchool' },
+                      
                      ],
                       collapsed: false
                 }, 
