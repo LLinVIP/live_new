@@ -13,7 +13,6 @@ declare module 'vue' {
     'Octicon:feedPerson16': typeof import('~icons/octicon/feed-person16')['default']
     'Ooui:clock': typeof import('~icons/ooui/clock')['default']
     PageInfo: typeof import('./theme/components/PageInfo.vue')['default']
-    'Ph:eyeFill': typeof import('~icons/ph/eye-fill')['default']
     Progress: typeof import('./theme/components/Progress.vue')['default']
     'RadixIcons:update': typeof import('~icons/radix-icons/update')['default']
   }
