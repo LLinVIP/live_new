@@ -6,6 +6,7 @@ export function MarkdownTransform(): Plugin {
     name: 'chodocs-md-transform',
     enforce: 'pre',
     async transform(code, id) {
+
       if (!id.match(/\.md\b/))
         return null
       // convert links to relative
@@ -16,8 +17,11 @@ export function MarkdownTransform(): Plugin {
       const imgRegex = /!\[(.+?)\]\((.+?)\)/g
       let imgMatches = imgRegex.exec(code)
 
+
+
       if (id.match(/Play/)){
         while (imgMatches) {
+          
           const [text, link] = imgMatches.slice(1)
           code = code.replace(imgMatches[0], `<img src="${link}" alt="${text || 'img'}" class="mx-auto w-80%"/><br>`)
           imgMatches = imgRegex.exec(code)
