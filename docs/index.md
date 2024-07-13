@@ -70,3 +70,5 @@ const members = [
   </VPTeamPageTitle>
   <VPTeamMembers size="small" :members="members" class="" />
 </VPTeamPage>
+
+<HomeContributors/>
