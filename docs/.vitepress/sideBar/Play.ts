@@ -49,6 +49,7 @@ export default function PlaySideBar() {
                         { text: '三顺甜品店', link: '/Play/Eat/OutSchool/QuanShan/三顺甜品店' },
                         { text: '四湖鱼村', link: '/Play/Eat/OutSchool/QuanShan/四湖鱼村' },
                         { text: '一家人人生一串', link: '/Play/Eat/OutSchool/QuanShan/一家人人生一串' },
+                        { text: '萝蔓西餐厅', link: '/Play/Eat/OutSchool/QuanShan/萝蔓西餐厅' },
                        ],
                         collapsed: true
                   },
