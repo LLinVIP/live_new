@@ -34,6 +34,7 @@ export default function PlaySideBar() {
                     {
                       text: '泉山区',
                       items: [
+                        { text: '小牛哈尼韩式水煎肉', link: '/Play/Eat/OutSchool/QuanShan/小牛哈尼韩式水煎肉' },
                         { text: '多福临砂锅居', link: '/Play/Eat/OutSchool/QuanShan/多福临砂锅居' },
                         { text: '巨鲸pizza', link: '/Play/Eat/OutSchool/QuanShan/巨鲸pizza' },
                         { text: '南京大排档', link: '/Play/Eat/OutSchool/QuanShan/南京大排档' },
@@ -49,6 +50,7 @@ export default function PlaySideBar() {
                         { text: '三顺甜品店', link: '/Play/Eat/OutSchool/QuanShan/三顺甜品店' },
                         { text: '四湖鱼村', link: '/Play/Eat/OutSchool/QuanShan/四湖鱼村' },
                         { text: '一家人人生一串', link: '/Play/Eat/OutSchool/QuanShan/一家人人生一串' },
+                        { text: '萝蔓西餐厅', link: '/Play/Eat/OutSchool/QuanShan/萝蔓西餐厅' },
                        ],
                         collapsed: true
                   },
