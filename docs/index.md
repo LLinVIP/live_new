@@ -10,8 +10,11 @@ hero:
       text: 开始使用
       link: /Preface/
     - theme: brand
+      text: 新生专区
+      link: /Freshman/
+    - theme: brand
       text: 吃喝玩乐
-      link: /Play/
+      link: /Play/  
     - theme: alt
       text: 更新日志
       link: /UpdateLog

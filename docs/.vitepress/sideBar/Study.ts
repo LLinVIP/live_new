@@ -43,7 +43,7 @@ export default function StudySideBar() {
         {
           text: "语言与标化考试",
           link:"/Study/StudyAbroad/Tests",
-        }，
+        },
         {
           text: "本科转学",
           link: "/Study/StudyAbroad/WhyGoAbroad/Transfer",
