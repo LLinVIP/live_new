@@ -46,7 +46,7 @@ export default function StudySideBar() {
         },
         {
           text: "本科转学",
-          link: "/Study/StudyAbroad/WhyGoAbroad/Transfer",
+          link: "/Study/StudyAbroad/Transfer",
         },
         {
           text: "硕士申请",
