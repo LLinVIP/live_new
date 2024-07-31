@@ -34,6 +34,29 @@ export default function StudySideBar() {
       collapsed: false,
     },
     {
+      text: "✈️ 出国留学",
+      items: [
+        {
+          text: "为何出国",
+          link: "/Study/StudyAbroad/WhyGoAbroad",
+        },
+        {
+          text: "语言与标化考试",
+          link:"/Study/StudyAbroad/Tests",
+        }，
+        {
+          text: "本科转学",
+          link: "/Study/StudyAbroad/WhyGoAbroad/Transfer",
+        },
+        {
+          text: "硕士申请",
+          link: "/Study/StudyAbroad/Graduated",
+        },
+        
+      ],
+      collapsed: false,
+    },
+    {
       text: "💯 课程考核",
       link: "/Study/CourseAssesment",
     },
