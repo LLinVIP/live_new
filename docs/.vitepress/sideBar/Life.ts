@@ -25,7 +25,8 @@ export default function LifeSideBar() {
     {
         text: '🛜 网络在矿大',
         items: [
-          { text: '校园网&手机卡', link: '/Life/Network/IntegratedNetwork' },
+          { text: '一体化网络&手机卡', link: '/Life/Network/IntegratedNetwork' },
+          { text: 'VPN', link: '/Life/Network/VPN' },
          ],
           collapsed: false
     },
