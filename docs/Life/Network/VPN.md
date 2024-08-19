@@ -8,13 +8,13 @@ author: Yolo3
 
 为了在校外访问校内服务（如教务系统、公寓系统等），我们需要使用到校园VPN。请注意，校园VPN，并不是“翻墙”，而是使你即使在互联网环境下也可以访问学校内网上的服务。
 
-## 登陆参数
-
-地址：**https://newvpn.cumt.edu.cn**
-
-用户名、密码：同统一认证账号，密码
-
 ## 客户端安装
+
+### 网页版WebVPN：
+
+无需安装客户端，临时访问建议使用。
+
+地址：https://webvpn.cumt.edu.cn
 
 ### Windows端：
 
@@ -33,6 +33,12 @@ author: Yolo3
 ### iPhone端：
 
 请在AppStore中搜索“EasyConnect”下载安装
+
+## 登陆参数
+
+地址：**https://newvpn.cumt.edu.cn**
+
+用户名、密码：同统一认证账号，密码
 
 ## 常见问题
 
