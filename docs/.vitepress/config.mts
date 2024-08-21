@@ -1,16 +1,16 @@
-import { defineConfig } from 'vitepress'
-import {name,description} from "./meta"
-import sidebar from './sidebar'
+import { defineConfig } from "vitepress";
+import { name, description } from "./meta";
+import sidebar from "./sidebar";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   outDir: "../dist",
   title: name,
   description: description,
-  lastUpdated:true,
+  lastUpdated: true,
   themeConfig: {
     outline: [2, 6],
     logo: "https://api.iconify.design/material-symbols:menu-book-outline.svg",
-    outlineTitle: '导航栏',
+    outlineTitle: "导航栏",
     nav: [
       { text: "主页", link: "/" },
       { text: "前言", link: "/Preface/" },
@@ -24,7 +24,7 @@ export default defineConfig({
 
     editLink: {
       pattern: `https://github.com/LLinVIP/live_new/tree/main/docs/:path`,
-      text: '在 GitHub 上编辑此页',
+      text: "在 GitHub 上编辑此页",
     },
 
     socialLinks: [
@@ -58,13 +58,16 @@ export default defineConfig({
       message: "欢迎投稿 cumtlive@outlook.com",
       copyright: "Copyright © 2023-present CUMT生存手册",
     },
+    markdown: {
+      math: true,
+    },
     search: {
-      provider: 'algolia',
+      provider: "algolia",
       options: {
-        appId: 'R7HRHDUGXW',
-        apiKey: '8f5a87e322a050e794d4d4126aadd5c7',
-        indexName: 'live-cumt'
-      }
-    }
-  }
-})
+        appId: "R7HRHDUGXW",
+        apiKey: "8f5a87e322a050e794d4d4126aadd5c7",
+        indexName: "live-cumt",
+      },
+    },
+  },
+});
