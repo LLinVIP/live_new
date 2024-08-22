@@ -30,9 +30,10 @@ export default function LifeSideBar() {
         collapsed: false
   },
     {
-        text: '🛜 网络在矿大',
+        text: '🛜 信息化在矿大',
         items: [
           { text: '一体化网络&手机卡', link: '/Life/Network/IntegratedNetwork' },
+          { text: '统一身份认证', link: '/Life/Network/SSO' },
           { text: 'VPN', link: '/Life/Network/VPN' },
          ],
           collapsed: false
