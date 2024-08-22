@@ -10,7 +10,7 @@ export default function LifeSideBar() {
     {
         text: '🏠 住在矿大',
         items: [
-          { text: '住在矿大&电', link: '/Life/Dorm/Electricity' },
+          { text: '电', link: '/Life/Dorm/Electricity' },
          ],
           collapsed: false
     },
@@ -22,6 +22,13 @@ export default function LifeSideBar() {
          ],
           collapsed: false
     },
+    {
+      text: '💊 健康在矿大',
+      items: [
+        { text: '医疗保险', link: '/Life/Health/Medicare' },
+       ],
+        collapsed: false
+  },
     {
         text: '🛜 网络在矿大',
         items: [
