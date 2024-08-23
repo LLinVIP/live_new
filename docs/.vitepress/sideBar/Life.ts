@@ -38,6 +38,10 @@ export default function LifeSideBar() {
          ],
           collapsed: false
     },
+    {
+      text: "📁 常用文件下载",
+      link: "/Study/Download",
+    },
 
         
         
