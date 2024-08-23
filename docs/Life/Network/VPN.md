@@ -20,11 +20,11 @@ author: Yolo3
 
 ### 登陆参数（在客户端里填写，勿直接打开）
 
-连接地址：**https://newvpn.cumt.edu.cn**
+服务器地址：**https://newvpn.cumt.edu.cn**
 
 用户名、密码：同统一身份认证账号，密码
 
-### Windows端：
+### Windows端
 
 点击链接下载：https://newvpn.cumt.edu.cn/com/EasyConnectInstaller.exe
 
@@ -32,13 +32,13 @@ author: Yolo3
 
 ![image-20240819130335706](https://s2.loli.net/2024/08/19/9YxlMFQHWTaXbK3.png)
 
-### Android端：
+### Android端
 
 手机：https://atrustdownload.sangfor.com/support/Software_Download/EasyConnectPhone.apk
 
 平板：https://atrustdownload.sangfor.com/support/Software_Download/EasyConnectTablet.apk
 
-### iPhone端：
+### iPhone端
 
 请在AppStore中搜索“EasyConnect”下载安装
 

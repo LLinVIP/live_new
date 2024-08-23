@@ -17,8 +17,8 @@ export default function LifeSideBar() {
     {
         text: '💰 消费在矿大',
         items: [
-          { text: '一卡通系统&银行卡', link: '/Life/Finance/BankCard' },
           { text: '一卡通系统&校园卡', link: '/Life/Finance/CampusCard' },
+          { text: '一卡通系统&银行卡', link: '/Life/Finance/BankCard' },
          ],
           collapsed: false
     },
