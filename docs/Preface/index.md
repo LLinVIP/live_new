@@ -2,6 +2,8 @@
 
 欢迎各位同学加入我们，一起写稿~
 
+**具体内容，请点击右上角的三横杠，进入具体篇章查看**
+
 暂定内容如下:
 
 - [ ] 学校政策解读
@@ -13,14 +15,12 @@
 - [ ] 生活方面经验
 - [ ] 未完待续
 
-**具体内容，请点击右上角的三横杠，进入具体篇章查看**
-
 ## 提建议
 
 如果有同学对某些内容有建议，或认为某些内容过于片面或者不属实，请发邮件至<cumtlive@outlook.com>指出不妥的地方，我们收到后将会进行调研、修改。
 
 CUMT生存手册编辑部 QQ群：391687014 欢迎加入一起吹水，写稿~
 
-github链接：[LLinVIP/live_new (github.com)](https://github.com/LLinVIP/live_new)
+Github链接：[LLinVIP/live_new (github.com)](https://github.com/LLinVIP/live_new)
 
-欢迎提Issue，Pull Request~
+欢迎提Issue，PullRequest~

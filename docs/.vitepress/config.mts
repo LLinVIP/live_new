@@ -8,7 +8,7 @@ export default defineConfig({
   description: description,
   lastUpdated: true,
   themeConfig: {
-    outline: [2, 6],
+    outline: [2, 3],
     logo: "https://api.iconify.design/material-symbols:menu-book-outline.svg",
     outlineTitle: "导航栏",
     nav: [
@@ -58,9 +58,7 @@ export default defineConfig({
       message: "欢迎投稿 cumtlive@outlook.com",
       copyright: "Copyright © 2023-present CUMT生存手册",
     },
-    markdown: {
-      math: true,
-    },
+
     search: {
       provider: "algolia",
       options: {
@@ -69,5 +67,8 @@ export default defineConfig({
         indexName: "live-cumt",
       },
     },
+  },
+  markdown: {
+    math: true,
   },
 });
