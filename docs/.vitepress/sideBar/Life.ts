@@ -37,7 +37,7 @@ export default function LifeSideBar() {
           { text: '校园VPN', link: '/Life/Network/VPN' },
           { text: '5G校园专网', link: '/Life/Network/5GCampusPrivateNetwork' },
          ],
-          collapsed: false
+          collapsed: false 
     },
     {
       text: "📁 常用文件下载",
