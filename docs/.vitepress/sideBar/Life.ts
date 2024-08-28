@@ -40,7 +40,7 @@ export default function LifeSideBar() {
     },
     {
       text: "📁 常用文件下载",
-      link: "/Study/Download",
+      link: "/Life/Download",
     },
 
         
