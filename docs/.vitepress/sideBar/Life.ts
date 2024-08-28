@@ -35,6 +35,7 @@ export default function LifeSideBar() {
           { text: '一体化网络&手机卡', link: '/Life/Network/IntegratedNetwork' },
           { text: '统一身份认证', link: '/Life/Network/SSO' },
           { text: '校园VPN', link: '/Life/Network/VPN' },
+          { text: '5G校园专网', link: '/Life/Network/5GCampusPrivateNetwork' },
          ],
           collapsed: false
     },
