@@ -1,28 +1,25 @@
 ---
-author: Yolo3
+author: Yolo3、HeZi
 ---
 
 # 校园VPN
 
 #111
 
-为了在校外访问校内服务（如教务系统、公寓系统等），我们需要使用到校园VPN。请注意，校园VPN，并不是“翻墙”，而是使你即使在互联网环境下也可以访问学校内网上的服务。
+为了在校外访问校内服务（如教务系统、公寓系统等），我们需要使用到校园VPN。请注意，校园VPN，并不是“翻墙”，有了VPN技术，用户无论是在外地出差还是在家中办公，只要能上互联网就能利用VPN访问学校内网资源。
+
+深信服VPN支持网页版和客户端版两种使用模式。
+
 
 ## 网页版Web VPN：
 
-无需安装客户端，临时访问建议使用。
+直接在网页上通过矿大新统一身份认证登录，即可使用，无需做任何配置、安装客户端或浏览器插件；
 
-地址：https://webvpn.cumt.edu.cn
+链接：https://webvpn.cumt.edu.cn
 
 
 
-## 客户端安装
-
-### 登陆参数（在客户端里填写，勿直接打开）
-
-服务器地址：**https://newvpn.cumt.edu.cn**
-
-用户名、密码：同统一身份认证账号，密码
+## 客户端版VPN
 
 ### Windows端
 
@@ -40,7 +37,14 @@ author: Yolo3
 
 ### iPhone端
 
-请在AppStore中搜索“EasyConnect”下载安装
+请在App Store中搜索“Easy Connect”下载安装
+
+
+### 登陆参数（在客户端里填写，勿直接打开）
+
+在地址框中输入:**https://newvpn.cumt.edu.cn**
+
+点击连接，连接后请使用“融合门户”账号及密码登录。
 
 :::warning 提醒
 
@@ -54,6 +58,8 @@ author: Yolo3
 
 [VPN-中国矿业大学-信息化建设与管理处 (cumt.edu.cn)](https://nic.cumt.edu.cn/fwzn/VPN.htm#Q1)
 
+[中国矿业大学虚拟专用网络(VPN)使用说明](https://www.cumt.edu.cn/a8/b4/c19686a567476/page.htm)
+
 ## 管理部门
 
 VPN咨询与报修热线：400-008-9233
@@ -63,3 +69,4 @@ VPN咨询与报修热线：400-008-9233
 地址：南湖校区图书馆楼 B座 822
 
 邮箱：vpn@cumt.edu.cn
+
