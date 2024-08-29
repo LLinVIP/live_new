@@ -61,6 +61,10 @@ export default function StudySideBar() {
       link: "/Study/CourseAssesment",
     },
     {
+      text: "💎 学费",
+      link: "/Study/Tuition",
+    },
+    {
       text: "📁 常用文件下载",
       link: "/Study/Download",
     },

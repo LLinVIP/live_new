@@ -15,6 +15,13 @@ export default function LifeSideBar() {
           collapsed: false
     },
     {
+      text: '🍾 生活服务',
+      items: [
+        { text: '物流服务', link: '/Life/Service/Logistics' },
+       ],
+        collapsed: false
+  },
+    {
         text: '💰 消费在矿大',
         items: [
           { text: '一卡通系统&校园卡', link: '/Life/Finance/CampusCard' },
