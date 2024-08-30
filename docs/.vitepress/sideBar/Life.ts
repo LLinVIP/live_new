@@ -11,7 +11,9 @@ export default function LifeSideBar() {
     {
         text: '🏠 住在矿大',
         items: [
-          { text: '电', link: '/Life/Dorm/Electricity' },
+          { text: '宿舍用电', link: '/Life/Dorm/Electricity' },
+          { text: '饮用用水', link: '/Life/Dorm/DrinkWater' },
+          { text: '洗浴用水', link: '/Life/Dorm/BathWater' },
          ],
           collapsed: false
     },
