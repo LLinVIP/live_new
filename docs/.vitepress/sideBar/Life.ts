@@ -13,7 +13,7 @@ export default function LifeSideBar() {
         items: [
           { text: '宿舍用电', link: '/Life/Dorm/Electricity' },
           { text: '饮用用水', link: '/Life/Dorm/DrinkWater' },
-          { text: '洗浴用水', link: '/Life/Dorm/BathWater' },
+          { text: '宿舍洗浴', link: '/Life/Dorm/Bath' },
          ],
           collapsed: false
     },
