@@ -9,7 +9,7 @@ export default function StuWorkSideBar() {
     { text: "📷 查看监控", link: "/StuWork/Monitor" },
     {
       text: "📁 常用文件下载",
-      link: "/Stuwork/Download",
+      link: "/StuWork/Download",
     },
     
   ];
