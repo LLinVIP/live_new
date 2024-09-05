@@ -14,6 +14,7 @@ export default defineConfig({
     nav: [
       { text: "主页", link: "/" },
       { text: "前言", link: "/Preface/" },
+      { text: "图书馆篇", link: "/Library/" },
       { text: "学习篇", link: "/Study/" },
       { text: "学生工作篇", link: "/StuWork" },
       { text: "生活篇", link: "/Life/" },
