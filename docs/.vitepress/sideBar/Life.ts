@@ -25,14 +25,6 @@ export default function LifeSideBar() {
         collapsed: false
   },
     {
-        text: '💰 消费在矿大',
-        items: [
-          { text: '一卡通系统&校园卡', link: '/Life/Finance/CampusCard' },
-          { text: '一卡通系统&银行卡', link: '/Life/Finance/BankCard' },
-         ],
-          collapsed: false
-    },
-    {
       text: '💊 健康在矿大',
       items: [
         { text: '医疗保险', link: '/Life/Health/Medicare' },
