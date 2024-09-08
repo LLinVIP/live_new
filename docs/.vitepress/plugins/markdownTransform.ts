@@ -9,6 +9,10 @@ export function MarkdownTransform(): Plugin {
       // 若不以md结尾，则忽略处理
       if (!id.match(/\.md\b/)) return null;
       const [_name, i] = id.split("/").slice(-2);
+      
+      // transfer color
+      const textColorPattern = /\【(\w+)\|(.+?)\】/;
+      code = code.replace(textColorPattern, replaceMatch)
 
       // convert img
       const imgRegex = /!\[(.+?)\]\((.+?)\)/g;
@@ -57,6 +61,7 @@ export function MarkdownTransform(): Plugin {
         `\n\n<PageInfo readTime="${readTime}" words="${words}"/>\n`
       );
 
+      
       return code;
     },
   };
@@ -82,4 +87,7 @@ function extractPicWidth(input: string): number | null {
       return parseInt(match[1], 10);
   }
   return 70;
+}
+function replaceMatch(match:RegExp, color:string, content:string) {
+  return `<text c-${color}-600 font-bold> ${content}</text>`;
 }

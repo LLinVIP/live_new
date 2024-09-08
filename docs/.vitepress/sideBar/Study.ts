@@ -1,15 +1,19 @@
 export default function StudySideBar() {
   return [
     {
-      text: "📕 培养方案",
+      text: "🌀 教务管理系统",
+      link: "/Study/EduAdminSystem",
+    },
+    {
+      text: "📕 培养方案（20版）",
       items: [
         {
-          text: "培养方案基础知识（20版）",
+          text: "培养方案基础知识",
           link: "/Study/DegreeProgram/BasicKnowledge",
         },
-        { text: "课程体系（20版）", link: "/Study/DegreeProgram/System" },
+        { text: "课程体系", link: "/Study/DegreeProgram/System" },
         {
-          text: "培养方案解读&通识教育选修课（20版）",
+          text: "培养方案解读&通识教育选修课",
           link: "/Study/DegreeProgram/PublicElectiveCourse",
         },
       ],

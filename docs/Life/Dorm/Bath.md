@@ -10,7 +10,7 @@ author: HeZi
 
 ## 洗浴卡
 
-目前，我校宿舍洗浴，使用[**校园一卡通**](/Life/Finance/CampusCard)。
+目前，我校宿舍洗浴，使用[**校园一卡通**](/StuWork/Document/CampusCard)。
 
 ## 洗浴水价
 

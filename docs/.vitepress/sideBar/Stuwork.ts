@@ -15,6 +15,7 @@ export default function StuWorkSideBar() {
         collapsed: false
   },
     { text: "📷 查看监控", link: "/StuWork/Monitor" },
+    { text: "🚶‍♂️‍➡️ 访客入校", link: "/StuWork/Vistor" },
     {
       text: "📁 常用文件下载",
       link: "/StuWork/Download",
