@@ -4,12 +4,14 @@ import LifeSideBar from './sideBar/Life'
 import PlaySideBar from './sideBar/Play'
 import StuWorkSideBar from './sideBar/Stuwork'
 import FreshmanSideBar from './sideBar/Freshman'
+import LibrarySideBar from './sideBar/Library'
 export default{
     "/Preface/":PrefaceSideBar(),
     '/Study/':StudySideBar(),
     '/Life/':LifeSideBar(),
     '/Play/':PlaySideBar(),
     '/StuWork/':StuWorkSideBar(),
-    '/Freshman/':FreshmanSideBar()
+    '/Freshman/':FreshmanSideBar(),
+    '/Library/':LibrarySideBar()
 
 }

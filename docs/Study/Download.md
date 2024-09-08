@@ -7,3 +7,7 @@ https://www.123pan.com/s/JSySVv-bIWWh.html
 ## 矿大PPT模板
 
 https://www.123pan.com/s/JSySVv-FOWWh.html
+
+## 试卷查阅申请表
+
+https://www.123pan.com/s/JSySVv-n6WWh.html
