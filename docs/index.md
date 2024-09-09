@@ -20,18 +20,22 @@ hero:
       link: /UpdateLog
 
 features:
-  - title: 学习相关
-    icon: { src: https://api.iconify.design/guidance:study-room.svg }
-    details: 学籍/转专业/课程/培养方案/考试/保研......
-  - title: 学生工作
-    icon: { src: https://api.iconify.design/ph:student.svg }
-    details: 大创/素质测评/评奖/处分......
-  - title: 生活在矿大
-    details: 食堂/宿舍/交通......
+  - title: 学习篇
+    icon: { src: https://api.iconify.design/mdi:learn-outline.svg }
+    details: 教务系统&培养方案解读&课程考核&学分认定&学费......
+    link: "/Study/index"
+    linkText: 点击进入
+  - title: 学生工作篇
+    icon: { src: https://api.iconify.design/material-symbols:work-outline.svg }
+    details: 办事基础&证件&查看监控&访客入校......
+    link: "/StuWork/index"
+    linkText: 点击进入
+  - title: 生活篇
+    details: 宿舍&水&电&物流&医保&信息化......
     icon: { src: https://api.iconify.design/ph:house-line.svg }
-  - title: 常用文件下载
-    details: 提供各类文件/表格的下载
-    icon: { src: https://api.iconify.design/solar:document-outline.svg }
+    link: "/Life/index"
+    linkText: 点击进入
+
 ---
 
 <script setup>

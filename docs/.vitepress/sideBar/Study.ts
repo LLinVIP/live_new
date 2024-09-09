@@ -5,7 +5,11 @@ export default function StudySideBar() {
       link: "/Study/EduAdminSystem",
     },
     {
-      text: "📕 培养方案（20版）",
+      text: "📚 教材",
+      link: "/Study/Textbook",
+    },
+    {
+      text: "📕 培养方案解读（2020版）",
       items: [
         {
           text: "培养方案基础知识",
@@ -26,7 +30,7 @@ export default function StudySideBar() {
           text: "课程考核基础知识",
           link: "/Study/CourseAssesment/BaseKnowledge",
         },
-        { text: "补考/缓考/重新学习", link: "/Study/CourseAssesment/Special" },
+        { text: "免修/补考/缓考/重新学习", link: "/Study/CourseAssesment/Special" },
 
       ],
     },
@@ -69,7 +73,7 @@ export default function StudySideBar() {
         },
         
       ],
-      collapsed: false,
+      collapsed: true,
     },
 
     {
