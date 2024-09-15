@@ -72,4 +72,22 @@ export default defineConfig({
   markdown: {
     math: true,
   },
+  head: [
+    // ... 其他部分的配置，比如
+    
+    [
+      'script',
+      {},
+      `
+      window._hmt = window._hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?b68233abdac26710980b9b8475c829e5";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();
+      `,
+    ],
+  ],
+
 });
