@@ -75,7 +75,7 @@ author: Yolo3
 
 再此处可以对自己在教务系统的信息做一些更新，部分需要请学院教学管理办公室审核。如图：
 
-![w-100](https://s2.loli.net/2024/09/07/sNnrMXI7o4EHvq9.png)
+![w-100](https://s2.loli.net/2024/09/19/KswSNlAR5dbh7TJ.png)
 
 ![w-100](https://s2.loli.net/2024/09/07/JLfqKYluiWhadBV.png)
 
@@ -174,7 +174,7 @@ author: Yolo3
 
 这都是与你当前专业的培养方案做对比的。
 
-通过此模块，可以分析你目前距离毕业还需要做些什么努力。比如哪些节点学分已购，哪些不够，哪些学分多修了。
+通过此模块，可以分析你目前距离毕业还需要做些什么努力。比如哪些节点学分已够，哪些不够，哪些学分多修了。
 
 ![w-100](https://s2.loli.net/2024/09/08/9YcBMtDl8JAfQdw.png)
 
