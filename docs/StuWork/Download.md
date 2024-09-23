@@ -7,3 +7,8 @@ https://www.123pan.com/s/JSySVv-HLWWh.html
 ## 学生手册
 
 https://www.123pan.com/s/JSySVv-fvCWh.html
+
+### 体测表格
+
+https://www.123pan.com/s/JSySVv-7kCWh.html
+

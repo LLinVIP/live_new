@@ -22,6 +22,9 @@ author: Yolo3、Cheng
 
 - **校园手机卡**：即在校园内三大运营商处办理的SIM卡
 
+
+![w-100](https://s2.loli.net/2024/09/21/RyxtFLbPnzKAfVC.png)
+
 ## 一体化网络的形式{#Form}
 
 目前，一体化网络有有线、无线两种形式。
