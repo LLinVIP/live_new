@@ -28,6 +28,7 @@ export default function LifeSideBar() {
       text: '💊 健康在矿大',
       items: [
         { text: '疫苗', link: '/Life/Health/Vaccine' },
+        { text: '就诊', link: '/Life/Health/Visit' },
         { text: '医疗保险', link: '/Life/Health/Medicare' },
        ],
         collapsed: false
