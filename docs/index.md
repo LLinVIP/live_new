@@ -22,16 +22,16 @@ hero:
 features:
   - title: 学习篇
     icon: { src: https://api.iconify.design/mdi:learn-outline.svg }
-    details: 教务系统&培养方案解读&课程考核&学分认定&学费......
+    details: 教务系统 & 培养方案解读 & 课程考核 & 学分认定 & 学费......
     link: "/Study/index"
     linkText: 点击进入
   - title: 学生工作篇
     icon: { src: https://api.iconify.design/material-symbols:work-outline.svg }
-    details: 办事基础&证件&查看监控&访客入校......
+    details: 办事基础 & 证件 & 查看监控 & 访客入校......
     link: "/StuWork/index"
     linkText: 点击进入
   - title: 生活篇
-    details: 宿舍&水&电&物流&医保&信息化......
+    details: 宿舍 & 水 & 电 & 物流 & 医保 & 信息化......
     icon: { src: https://api.iconify.design/ph:house-line.svg }
     link: "/Life/index"
     linkText: 点击进入
@@ -43,22 +43,22 @@ import { VPTeamMembers,VPTeamPage,VPTeamPageTitle } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1282001814&s=640',
+    avatar: 'https://s2.loli.net/2024/10/01/Sn63tHuKXyieUqA.jpg',
     name: 'Yolo3',
     title: 'Creator',
   },
     {
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2071791520&s=640',
+    avatar: 'https://s2.loli.net/2024/09/28/1G6tYjDuzM4pWRU.png',
     name: 'Jiang',
     title: 'Developer',
   },
       {
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1872214575&s=640',
-    name: 'Cheng',
+    avatar: "https://s2.loli.net/2024/10/01/DMjBg6NYVukofnQ.jpg",
+    name: 'Hezi',
     title: 'Developer',
   },
         {
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2587836169&s=640',
+    avatar: 'https://s2.loli.net/2024/10/01/2XFyiH7MQCD5EKe.jpg',
     name: 'Clo0oOoud',
     title: 'Developer',
   },
