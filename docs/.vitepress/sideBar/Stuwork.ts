@@ -9,6 +9,7 @@ export default function StuWorkSideBar() {
       items: [
         { text: "一卡通系统&校园卡", link: "/StuWork/Document/CampusCard" },
         { text: "一卡通系统&银行卡", link: "/StuWork/Document/BankCard" },
+        { text: "身份证", link: "/StuWork/Document/ID" },
       ],
       collapsed: false,
     },

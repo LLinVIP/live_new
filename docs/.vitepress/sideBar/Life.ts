@@ -3,6 +3,7 @@ export default function LifeSideBar() {
     {
         text: '🚗 行在矿大',
         items: [
+          { text: '门禁', link: '/Life/Traffic/Access' },
           { text: '校际交通', link: '/Life/Traffic/BetweenCampus' },
           { text: '校外交通', link: '/Life/Traffic/OutCampus' },
          ],
