@@ -89,5 +89,5 @@ function extractPicWidth(input: string): number | null {
   return 70;
 }
 function replaceMatch(match:RegExp, color:string, content:string) {
-  return `<text c-${color}-600 font-bold> ${content}</text>`;
+  return `<text c-${color}-600 font-bold>${content}</text>`;
 }
