@@ -3,6 +3,7 @@ export default function LifeSideBar() {
     {
         text: '🚗 行在矿大',
         items: [
+          { text: '门禁', link: '/Life/Traffic/Access' },
           { text: '校际交通', link: '/Life/Traffic/BetweenCampus' },
           { text: '校外交通', link: '/Life/Traffic/OutCampus' },
          ],
@@ -25,16 +26,10 @@ export default function LifeSideBar() {
         collapsed: false
   },
     {
-        text: '💰 消费在矿大',
-        items: [
-          { text: '一卡通系统&校园卡', link: '/Life/Finance/CampusCard' },
-          { text: '一卡通系统&银行卡', link: '/Life/Finance/BankCard' },
-         ],
-          collapsed: false
-    },
-    {
       text: '💊 健康在矿大',
       items: [
+        { text: '疫苗', link: '/Life/Health/Vaccine' },
+        { text: '就诊&购买药物', link: '/Life/Health/Visit' },
         { text: '医疗保险', link: '/Life/Health/Medicare' },
        ],
         collapsed: false

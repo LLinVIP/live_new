@@ -17,13 +17,11 @@ author: Yolo3、HeZi
 我校的VPN提供商为深信服，支持网页版和客户端版两种使用模式。
 
 
-## 网页版Web VPN：
+## 网页版WebVPN
 
-直接在网页上通过统一身份认证系统登录，即可使用，无需做任何配置、安装客户端或浏览器插件；
+直接在网页上通过**统一身份认证**系统登录，即可使用，无需做任何配置、安装客户端或浏览器插件；
 
 链接：https://webvpn.cumt.edu.cn
-
-
 
 ## 客户端版VPN
 
@@ -31,9 +29,15 @@ author: Yolo3、HeZi
 
 点击链接下载：https://newvpn.cumt.edu.cn/com/EasyConnectInstaller.exe
 
-文件管理器中，在安装包上右键，选择“以管理员身份运行”，同意即可
+文件管理器中，在安装包上右键，选择“以管理员身份运行”，同意即可。
 
 ![image-20240819130335706](https://s2.loli.net/2024/08/19/9YxlMFQHWTaXbK3.png)
+
+:::tip 提示
+
+安装Windows VPN客户端后，由于对系统配置文件造成了一些修改，部分游戏或者应用程序可能无法进入。出现此问题，请搜索“安装深信服VPN后，XXX无法使用”，寻找对应解决方法进行处理。 
+
+:::
 
 ### Android端
 
@@ -41,14 +45,20 @@ author: Yolo3、HeZi
 
 平板：https://atrustdownload.sangfor.com/support/Software_Download/EasyConnectTablet.apk
 
-### iPhone端
+### iOS端
 
-请在App Store中搜索“Easy Connect”下载安装
+请在App Store中搜索“Easy Connect”下载安装，或点击以下链接：
+
+[EasyConnect on the App Store (apple.com)](https://apps.apple.com/us/app/easyconnect/id440460214)
+
+### Mac端
+
+https://download.sangfor.com.cn/download/product/sslvpn/pkg/mac_767/EasyConnect_7_6_7_4.dmg
 
 
-### 登陆参数（在客户端里填写，勿直接打开）
+## 登陆参数（在客户端里填写，勿直接打开）
 
-在地址框中输入:**https://newvpn.cumt.edu.cn**
+在地址框中输入：**https://newvpn.cumt.edu.cn**
 
 点击连接，连接后请使用统一身份认证账号及密码登录。
 

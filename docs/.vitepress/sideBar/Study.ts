@@ -1,16 +1,56 @@
 export default function StudySideBar() {
   return [
     {
-      text: "📕 培养方案",
+      text: "🌀 教务管理系统",
+      link: "/Study/EduAdminSystem",
+    },
+    {
+      text: "📚 教材",
+      link: "/Study/Textbook",
+    },
+    {
+      text: "📕 培养方案解读",
       items: [
         {
-          text: "培养方案基础知识（20版）",
-          link: "/Study/DegreeProgram/BasicKnowledge",
+          text: "2020版",
+          items: [
+            {
+              text: "培养方案基础知识",
+              link: "/Study/DegreeProgram/BasicKnowledge",
+            },
+            { text: "课程体系", link: "/Study/DegreeProgram/System" },
+            {
+              text: "培养方案解读&通识教育选修课",
+              link: "/Study/DegreeProgram/PublicElectiveCourse",
+            },
+          ],
+          collapsed: true,
         },
-        { text: "课程体系（20版）", link: "/Study/DegreeProgram/System" },
         {
-          text: "培养方案解读&通识教育选修课（20版）",
-          link: "/Study/DegreeProgram/PublicElectiveCourse",
+          text: "2024版",
+          items: [
+            {
+              text: "培养方案基础知识",
+              link: "/Study/DegreeProgram2024/BasicKnowledge",
+            },
+            { text: "课程体系", link: "/Study/DegreeProgram2024/CourseSystem" },
+            // {
+            //   text: "培养方案解读&通识教育选修课",
+            //   link: "/Study/DegreeProgram/PublicElectiveCourse",
+            // },
+          ],
+          collapsed: true,
+        },
+        {
+          text: "部分课程拎出来说说",
+          items: [
+            {
+              text: "体育课",
+              link: "/Study/Course/PE",
+            },
+
+          ],
+          collapsed: true,
         },
       ],
       collapsed: false,
@@ -22,8 +62,10 @@ export default function StudySideBar() {
           text: "课程考核基础知识",
           link: "/Study/CourseAssesment/BaseKnowledge",
         },
-        { text: "补考/缓考/重新学习", link: "/Study/CourseAssesment/Special" },
-
+        {
+          text: "免修/补考/缓考/重新学习",
+          link: "/Study/CourseAssesment/Special",
+        },
       ],
     },
     {
@@ -53,7 +95,7 @@ export default function StudySideBar() {
         },
         {
           text: "语言与标化考试",
-          link:"/Study/StudyAbroad/Tests",
+          link: "/Study/StudyAbroad/Tests",
         },
         {
           text: "本科转学",
@@ -63,9 +105,8 @@ export default function StudySideBar() {
           text: "硕士申请",
           link: "/Study/StudyAbroad/Graduated",
         },
-        
       ],
-      collapsed: false,
+      collapsed: true,
     },
 
     {

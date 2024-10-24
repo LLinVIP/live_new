@@ -4,12 +4,12 @@ interface Contributor {
   avatar: string;
 }
 
-function getAvatarUrl(qnumber: number) {
-  return `https://q1.qlogo.cn/g?b=qq&nk=${qnumber}&s=640`;
+function getAvatarUrl(url:string) {
+  return url;
 }
 
-const contributorList: Contributor[] = contributors.map((qnumber: number) => ({
-  avatar: getAvatarUrl(qnumber),
+const contributorList: Contributor[] = contributors.map((url: string) => ({
+  avatar: getAvatarUrl(url),
 }));
 
 export { contributorList as contributors };
