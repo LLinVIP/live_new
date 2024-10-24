@@ -20,6 +20,11 @@ hero:
       link: /UpdateLog
 
 features:
+  - title: 常见问题快速跳转
+    icon: { src: https://api.iconify.design/hugeicons:question.svg }
+    details: 校园卡补办| 一体化网络 | 物流服务 | 校车 | VPN | 医保 | 电费 | 邮箱......
+    link: "/Freshman/CommonQuestions"
+    linkText: 点击进入
   - title: 学习篇
     icon: { src: https://api.iconify.design/mdi:learn-outline.svg }
     details: 教务系统 | 培养方案解读 | 课程考核 | 学分认定 | 学费......
@@ -35,7 +40,6 @@ features:
     icon: { src: https://api.iconify.design/ph:house-line.svg }
     link: "/Life/index"
     linkText: 点击进入
-
 ---
 
 <script setup>
