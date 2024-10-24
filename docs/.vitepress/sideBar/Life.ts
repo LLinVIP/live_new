@@ -37,7 +37,8 @@ export default function LifeSideBar() {
     {
         text: '🛜 信息化在矿大',
         items: [
-          { text: '一体化网络&校园手机卡', link: '/Life/Network/IntegratedNetwork' },
+          { text: '一体化网络', link: '/Life/Network/IntegratedNetwork' },
+          { text: '运营商套餐及校园手机卡', link: '/Life/Network/CampusMobilePhoneCard'},
           { text: '统一身份认证', link: '/Life/Network/SSO' },
           { text: '校园VPN', link: '/Life/Network/VPN' },
           { text: '校园邮箱', link: '/Life/Network/EduMail' },
