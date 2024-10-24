@@ -196,7 +196,7 @@ author: Yolo3、Cheng
 
 ## 使用路由器
 
-其实，一体化网络是可以使用路由器的（虽然学校明面上说不支持）。
+通过路由器连接一体化网络，可以实现多设备共享网络，无需每个设备都登录。
 
 路由器有两种模式：桥接与路由。
 
@@ -208,7 +208,7 @@ author: Yolo3、Cheng
 
 自动登录Curl版本：
 
-[关于 openwrt 路由器及哆点 Drcom 校园网 WEB 自动登录 | HeZi](https://hezi.space/2024/06/03/关于openwrt路由器及哆点Drcom校园网WEB自动登录/)
+[关于 OpenWrt 路由器及哆点 Drcom 校园网 WEB 自动登录 | HeZi](https://hezi.space/2024/06/03/关于openwrt路由器及哆点Drcom校园网WEB自动登录/)
 
 ## 反馈/咨询/报修
 
