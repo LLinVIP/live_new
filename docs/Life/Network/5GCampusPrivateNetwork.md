@@ -1,43 +1,50 @@
 ---
 author: HeZi
 ---
-
 # 5G校园专网
 
 #111
 
 ## 什么是5G校园专网
 
-**5G校园专网**简单来说，就是把5G网络当作校园网络的扩展和补充，校园网络的接入访问覆盖范围扩展到全国。在不使用[VPN](https://live.cumt.asia/Life/Network/VPN.html)的情况下就可以访问校园内网。
+**5G校园专网**是指通过运营商5G通信网络切片、DNN、UPF用户平面流量牵引、UCLC分流等技术，实现运营商网络与校园网互联互通的校园专用网络。通过将5G网络和校园网络进行融合，把5G网络当作校园网络的扩展和补充，校园网络的接入访问覆盖范围扩展到全国。
+
+**简单来说**，就是把5G网络当作校园网络的扩展和补充，校园网络的接入访问覆盖范围扩展到全国。在不使用[VPN](https://live.cumt.asia/Life/Network/VPN.html)的情况下就可以访问校园内网。
+
+学校联合中国电信、中国移动和中国联通完成5G校园专网的建设与测试，于本学期初上线试运行。经优化、完善与评估，目前已具备全面开通的能力与条件。即日起 **中国矿业大学5G校园专网全面开通** ，师生可申请开通相关业务。
 
 ## 收费详情
 
-师生申请开通电信5G校园专网业务后，可免费使用至2024年12月31日。2025年1月1日起，每月收取1元功能费。访问5G校园专网产生的流量使用所开通号码本身套餐内的通用流量。
+师生申请开通5G校园专网业务后，可免费使用至2025年5月31日。2025年6月1日起，运营商每月收取1元功能费。访问5G校园专网产生的流量使用所开通号码本身套餐内的通用流量。
+
+| 运营商   | 移动     | 联通       | 电信       |
+| -------- | -------- | ---------- | ---------- |
+| 支持终端 | 仅5G终端 | 4G、5G终端 | 4G、5G终端 |
 
 ## 师生如何开通/关闭5G校园专网业务？
 
-使用5G终端，且号码归属地为**徐州电信**(可以不为校园卡)的师生可实现不换卡、不换号直接申请开通5G校园专网。
+号码归属地为徐州移动/联通/电信的师生可实现 **不换卡、不换号直接申请开通5G校园专网业务** 。以下以徐州电信为例，介绍开通5G校园专网业务的操作流程。
 
 ### e矿大2.0/钉钉 —— 工作台
 
 打开e矿大2.0-工作台，点击【5G专网】进入5G专网自助服务平台-【5G专网申请】-【5G专网申请】。
 
-![35ac3c9c7d6f6e3945b5be7915bd87cd.png](https://s2.loli.net/2024/08/28/SFDoMW4pxb1PCyR.png)
-
 - 若工作台首页未展示【5G专网】入口，请点击【更多】至应用中心内查找使用
 
-![506fd68ed2a590dbd763ba475ec96e84.png](https://s2.loli.net/2024/08/28/2vkSNTEUqAJg9pZ.png)
+<div style="display: flex; justify-content: center; align-items: center; gap: 0;">
+    <img src="https://s2.loli.net/2024/08/28/SFDoMW4pxb1PCyR.png" alt="Image 1" style="width: 50%; margin: 0;">
+    <img src="https://s2.loli.net/2024/08/28/2vkSNTEUqAJg9pZ.png" alt="Image 2" style="width: 50%; margin: 0;">
+</div>
 
 ### 填写申请
 
 填写个人信息后，阅读并同意跳出的条款内容。自动返回上一页后，点击【提交】，在签名框中手写签名，点击【保存签名】。
 
-![854023704cc1ad267bb5316dad853c6d.png](https://s2.loli.net/2024/08/28/uEiWq5R7NBVt6De.png)
-
-![d79bcaa347e0faa5f8f5a3c29abc7bf9.png](https://s2.loli.net/2024/08/28/SBiqsCAygTl8Dd6.png)
-
-![640.webp](https://s2.loli.net/2024/08/28/Q6NIgScaBojR5zr.webp)
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 0;">
+    <img src="https://s2.loli.net/2024/08/28/uEiWq5R7NBVt6De.png" alt="Image 1" style="flex: 1 1 auto; height: auto; max-height: 400px; object-fit: cover; margin: 0;">
+    <img src="https://s2.loli.net/2024/08/28/SBiqsCAygTl8Dd6.png" alt="Image 2" style="flex: 1 1 auto; height: auto; max-height: 400px; object-fit: cover; margin: 0;">
+    <img src="https://s2.loli.net/2024/08/28/Q6NIgScaBojR5zr.webp" alt="Image 3" style="flex: 1 1 auto; height: auto; max-height: 400px; object-fit: cover; margin: 0;">
+</div>
 
 ### 等待短信-飞行模式
 
@@ -50,16 +57,20 @@ author: HeZi
 
 访问5G校园专网自助申请页面，点击【业务更改】进入解绑页面，选择手机号对应运营商，填写手机号，输入验证码，点击【解绑】即可.
 
-
 ## 常见问题
 
 - 开通5G校园专网业务以申请时提交的手机号为准，与统一身份认证中绑定的手机号无关。
 - 您仅能为本人手机号开通专网业务。提交申请信息后，运营商将验证手机号对应的机主与申请人是否一致，如不一致则无法开通。
 - 若您持有同一家运营商的多个手机号，您仅能为其中一个手机号开通5G校园专网业务。
 - 持有非徐州号卡的师生，如需开通5G校园专网，可自行前往校内中国电信营业厅，办理徐州号卡，再申请开通。
+- 双卡用户使用5G校园专网业务，请确保您的设备使用的是已开通业务卡号的数据流量。
+- 师生毕业/离校后将无法使用5G校园专网业务，为避免继续产生不必要的费用，请您自行于毕业/离校当月前往校内运营商营业厅，关闭5G校园专网业务。
 
 ## 管理部门
 
 - 中国电信南湖校区营业厅咨询电话：0516-83599002。
-
 - 如果在开通5G校园专网过程中遇到问题，可拨打电话83592179或4000089233咨询。
+
+## 参考链接
+
+- [ 中国矿业大学5G校园专网全面开通，快来申请吧!](https://mp.weixin.qq.com/s/hNeoAYrtWiATRGq6ytPbYA)
