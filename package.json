@@ -18,11 +18,11 @@
   "dependencies": {
     "@types/node": "^22.9.0",
     "dayjs": "^1.11.13",
-    "postcss": "^8.4.47",
-    "unocss": "^0.64.0",
+    "postcss": "^8.4.49",
+    "unocss": "^0.64.1",
     "unplugin-icons": "^0.20.1",
     "unplugin-vue-components": "^0.27.4",
-    "vite": "^5.4.10",
-    "vue": "^3.5.12"
+    "vite": "^5.4.11",
+    "vue": "^3.5.13"
   }
 }
