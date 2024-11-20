@@ -88,6 +88,18 @@ export default defineConfig({
       })();
       `,
     ],
+    [
+      'script',
+      {
+        async: '',
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-HMRZFH37HF'
+      }
+    ],
+    [
+      'script',
+      {},
+      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-HMRZFH37HF');"
+    ]
   ],
 
 });
