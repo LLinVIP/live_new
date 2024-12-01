@@ -16,6 +16,7 @@ export default function StuWorkSideBar() {
     },
     { text: "🏃 体质健康测试", link: "/StuWork/PhysicalTest" },
     { text: "📷 查看监控", link: "/StuWork/Monitor" },
+    { text: "🚪 教室借用", link: "/StuWork/ClassroomBorrowing" },
     { text: "🚶‍♂️‍➡️ 访客入校", link: "/StuWork/Vistor" },
     {
       text: "📁 常用文件下载",
