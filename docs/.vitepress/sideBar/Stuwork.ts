@@ -14,6 +14,15 @@ export default function StuWorkSideBar() {
       ],
       collapsed: false,
     },
+    {
+      text: "📈 综测（Z）",
+      items: [
+        { text: "综合素质测评", link: "/StuWork/ComprehensiveAssessment" },
+        { text: "基本素质测评（J）", link: "/StuWork/ComprehensiveAssessment/Fundamental" },
+        { text: "发展素质测评（F）", link: "/StuWork/ComprehensiveAssessment/Development" },
+      ],
+      collapsed: false,
+    },
     { text: "🏃 体质健康测试", link: "/StuWork/PhysicalTest" },
     { text: "📷 查看监控", link: "/StuWork/Monitor" },
     { text: "🚪 教室借用", link: "/StuWork/ClassroomBorrowing" },
