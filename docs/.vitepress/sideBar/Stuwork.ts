@@ -15,9 +15,9 @@ export default function StuWorkSideBar() {
       collapsed: false,
     },
     {
-      text: "📈 综测（Z）",
+      text: "📈 综测",
       items: [
-        { text: "综合素质测评", link: "/StuWork/ComprehensiveAssessment" },
+        { text: "综合素质测评（Z）", link: "/StuWork/ComprehensiveAssessment" },
         { text: "基本素质测评（J）", link: "/StuWork/ComprehensiveAssessment/Fundamental" },
         { text: "发展素质测评（F）", link: "/StuWork/ComprehensiveAssessment/Development" },
       ],
