@@ -12,7 +12,7 @@ author: Yolo3、HeZi
 
 请注意，若你已经连接到"**CUMT_Stu**"网络(无论是有线网还是无线网)，都【red|不可以】在以“**校园网**”为登录入口时再连接校园VPN，会出现“未知错误”的报错提示。
 
-若要连接校园VPN，请先使用运营商入口登录,或者使用运营商流量进行连接。
+若要连接校园VPN，请先使用运营商入口登录"CUMT_Stu",或者使用运营商流量进行连接。
 
 :::
 
@@ -60,7 +60,7 @@ https://download.sangfor.com.cn/download/product/sslvpn/pkg/mac_767/EasyConnect_
 
 在地址框中输入：**https://newvpn.cumt.edu.cn**
 
-点击连接，连接后请使用统一身份认证账号及密码登录。
+点击连接，连接后请使用**统一身份认证**账号及密码登录。
 
 :::warning 提醒
 
@@ -76,12 +76,12 @@ https://download.sangfor.com.cn/download/product/sslvpn/pkg/mac_767/EasyConnect_
 
 [中国矿业大学虚拟专用网络(VPN)使用说明](https://www.cumt.edu.cn/a8/b4/c19686a567476/page.htm)
 
-## 管理部门
+## 报修/咨询
 
-VPN 咨询与报修热线：400-008-9233
+**VPN 咨询与报修热线**：400-008-9233
 
-服务监督电话：83592122 孙老师
+**服务监督电话**：83592122 孙老师
 
-地址：南湖校区图书馆楼 B 座 822
+**地址**：南湖校区 图书馆楼 B 座 822
 
-邮箱：vpn@cumt.edu.cn
+**邮箱**：vpn@cumt.edu.cn
