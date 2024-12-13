@@ -3,7 +3,7 @@
   "devDependencies": {
     "@iconify-json/bi": "^1.2.1",
     "@iconify-json/eos-icons": "^1.2.1",
-    "@iconify-json/octicon": "^1.2.1",
+    "@iconify-json/octicon": "^1.2.2",
     "@iconify-json/ooui": "^1.2.2",
     "@iconify-json/ph": "^1.2.1",
     "@iconify-json/radix-icons": "^1.2.1",
@@ -16,13 +16,13 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "@types/node": "^22.10.1",
+    "@types/node": "^22.10.2",
     "dayjs": "^1.11.13",
     "postcss": "^8.4.49",
-    "unocss": "0.65.0-beta.2",
-    "unplugin-icons": "^0.20.2",
+    "unocss": "0.65.1",
+    "unplugin-icons": "^0.21.0",
     "unplugin-vue-components": "^0.27.5",
-    "vite": "^6.0.1",
+    "vite": "^6.0.3",
     "vue": "^3.5.13"
   }
 }
